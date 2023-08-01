@@ -1,0 +1,62 @@
+
+new bomb and star.png
+size: 708,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 536, 11
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 536, 11
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 536, 11
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 536, 59
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 585, 24
+  size: 32, 33
+  orig: 59, 58
+  offset: 15, 13
+  index: -1
+6
+  rotate: false
+  xy: 406, 2
+  size: 128, 126
+  orig: 128, 126
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 31
+  size: 402, 402
+  orig: 402, 402
+  offset: 0, 0
+  index: -1
+Ellipse 2 copy 2
+  rotate: true
+  xy: 406, 130
+  size: 303, 299
+  orig: 303, 299
+  offset: 0, 0
+  index: -1

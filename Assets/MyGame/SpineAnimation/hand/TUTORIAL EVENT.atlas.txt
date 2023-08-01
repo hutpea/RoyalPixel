@@ -1,0 +1,13 @@
+
+TUTORIAL EVENT.png
+size: 88,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dsc
+  rotate: false
+  xy: 4, 4
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1

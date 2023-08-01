@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f384fba8eb01cfc4ba79a2f6f3cb10ac, type: 3}
+  m_Name: PianoTileData1
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: fe7e951732331794987b6709c4e74f30, type: 3}
+  - {fileID: 8300000, guid: c96d42f7a9d8b56469fa985e0041bcec, type: 3}
+  - {fileID: 8300000, guid: 76e4aa1551e69cc48ad4009d7db486b2, type: 3}
+  - {fileID: 8300000, guid: 54d2681420eed7a458e9779f9d02eb30, type: 3}
+  - {fileID: 8300000, guid: dc034a4a1873c1c4aa0a5e1d5d2708e7, type: 3}
+  - {fileID: 8300000, guid: cf4e5133af208fd4cbbfbdddb9f187cb, type: 3}
+  - {fileID: 8300000, guid: f678aae6e570e554a93c19a5df6a5885, type: 3}
+  - {fileID: 8300000, guid: 94fcc4aea6894024da32490611870c2c, type: 3}
+  - {fileID: 8300000, guid: 97baee7eece785d4c9fe819ed1195740, type: 3}
+  - {fileID: 8300000, guid: f9e0634babe9fa74fb7b5a6e15d39518, type: 3}
+  - {fileID: 8300000, guid: 7b58ce2b8dcbdb44c8decd0ed25067e9, type: 3}
+  - {fileID: 8300000, guid: 8285582b0f4fc2e44b7510134bf04b5a, type: 3}
+  - {fileID: 8300000, guid: 90b8c0aec561a214ea6afe6e99d7c387, type: 3}
+  timer: 0.35
+  name: Sad Piano Transition

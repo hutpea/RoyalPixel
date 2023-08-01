@@ -1,0 +1,34 @@
+
+tutorial.png
+size: 756,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fit
+  rotate: true
+  xy: 468, 353
+  size: 382, 269
+  orig: 382, 269
+  offset: 0, 0
+  index: -1
+hand left
+  rotate: true
+  xy: 2, 58
+  size: 349, 375
+  orig: 349, 375
+  offset: 0, 0
+  index: -1
+hand right
+  rotate: true
+  xy: 379, 2
+  size: 349, 375
+  orig: 349, 375
+  offset: 0, 0
+  index: -1
+zoom in
+  rotate: false
+  xy: 2, 409
+  size: 464, 326
+  orig: 464, 326
+  offset: 0, 0
+  index: -1

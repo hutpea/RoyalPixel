@@ -1,0 +1,13 @@
+
+box.png
+size: 96,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gift
+  rotate: false
+  xy: 4, 4
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "/g/.shortcut-targets-by-id/1QXx3CZRUxcxCn9KBkazLMIS2ksp0DBMG/[PUZZLE] ROYAL PIXELS/UI/rate/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "blink", "bone": "root", "attachment": "blink" },
+	{ "name": "Layer 6", "bone": "root", "attachment": "Layer 6" },
+	{ "name": "rate star 2", "bone": "root", "attachment": "rate star 2" },
+	{ "name": "Rounded Rectangle 7", "bone": "root", "attachment": "Rounded Rectangle 7" },
+	{ "name": "Rounded Rectangle 7 copy", "bone": "root", "attachment": "Rounded Rectangle 7 copy" },
+	{ "name": "rate star", "bone": "root", "attachment": "rate star" }
+],
+"skins": {
+	"default": {
+		"blink": {
+			"blink": { "x": 824.5, "y": -131, "width": 177, "height": 142 }
+		},
+		"Layer 6": {
+			"Layer 6": { "x": 540.5, "y": -913.5, "width": 573, "height": 675 }
+		},
+		"rate star 2": {
+			"rate star 2": { "x": 736.5, "y": -958.5, "width": 79, "height": 75 }
+		},
+		"Rounded Rectangle 7": {
+			"Rounded Rectangle 7": { "x": 413, "y": -1156, "width": 234, "height": 126 }
+		},
+		"Rounded Rectangle 7 copy": {
+			"Rounded Rectangle 7 copy": { "x": 666, "y": -1156, "width": 234, "height": 126 }
+		},
+		"rate star": {
+			"rate star": { "x": 341.5, "y": -957.5, "width": 79, "height": 75 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

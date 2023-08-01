@@ -1,0 +1,28 @@
+{ "skeleton": { "images": "/g/.shortcut-targets-by-id/1QXx3CZRUxcxCn9KBkazLMIS2ksp0DBMG/[PUZZLE] ROYAL PIXELS/UI/PROFILE/Achiviment/movie/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 77", "bone": "root", "attachment": "Layer 77" },
+	{ "name": "Group 6", "bone": "root", "attachment": "Group 6" },
+	{ "name": "Group 2", "bone": "root", "attachment": "Group 2" },
+	{ "name": "Rounded Rectangle 14", "bone": "root", "attachment": "Rounded Rectangle 14" }
+],
+"skins": {
+	"default": {
+		"Layer 77": {
+			"Layer 77": { "x": 540, "y": -960, "width": 1082, "height": 1922 }
+		},
+		"Group 6": {
+			"Group 6": { "x": 474, "y": -501, "width": 104, "height": 104 }
+		},
+		"Group 2": {
+			"Group 2": { "x": 474, "y": -493.5, "width": 62, "height": 59 }
+		},
+		"Rounded Rectangle 14": {
+			"Rounded Rectangle 14": { "x": 474.5, "y": -535, "width": 97, "height": 34 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

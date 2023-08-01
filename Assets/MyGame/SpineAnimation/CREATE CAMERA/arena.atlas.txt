@@ -1,0 +1,13 @@
+
+arena.png
+size: 189,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+camera
+  rotate: false
+  xy: 4, 4
+  size: 181, 146
+  orig: 181, 146
+  offset: 0, 0
+  index: -1

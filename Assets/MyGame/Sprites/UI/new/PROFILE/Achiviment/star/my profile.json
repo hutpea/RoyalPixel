@@ -1,0 +1,28 @@
+{ "skeleton": { "images": "/g/.shortcut-targets-by-id/1QXx3CZRUxcxCn9KBkazLMIS2ksp0DBMG/[PUZZLE] ROYAL PIXELS/UI/PROFILE/Achiviment/star/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 77", "bone": "root", "attachment": "Layer 77" },
+	{ "name": "Rounded Rectangle 7 copy", "bone": "root", "attachment": "Rounded Rectangle 7 copy" },
+	{ "name": "Vector Smart Object copy 3", "bone": "root", "attachment": "Vector Smart Object copy 3" },
+	{ "name": "Group 1 copy 4", "bone": "root", "attachment": "Group 1 copy 4" }
+],
+"skins": {
+	"default": {
+		"Layer 77": {
+			"Layer 77": { "x": 540, "y": -960, "width": 1082, "height": 1922 }
+		},
+		"Rounded Rectangle 7 copy": {
+			"Rounded Rectangle 7 copy": { "x": 903, "y": -501, "width": 104, "height": 104 }
+		},
+		"Vector Smart Object copy 3": {
+			"Vector Smart Object copy 3": { "x": 907, "y": -495, "width": 60, "height": 56 }
+		},
+		"Group 1 copy 4": {
+			"Group 1 copy 4": { "x": 902.5, "y": -540.5, "width": 97, "height": 47 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

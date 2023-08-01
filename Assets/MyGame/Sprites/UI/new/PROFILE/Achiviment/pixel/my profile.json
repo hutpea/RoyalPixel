@@ -1,0 +1,28 @@
+{ "skeleton": { "images": "/g/.shortcut-targets-by-id/1QXx3CZRUxcxCn9KBkazLMIS2ksp0DBMG/[PUZZLE] ROYAL PIXELS/UI/PROFILE/Achiviment/pixel/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 77", "bone": "root", "attachment": "Layer 77" },
+	{ "name": "Group 1", "bone": "root", "attachment": "Group 1" },
+	{ "name": "Vector Smart Object", "bone": "root", "attachment": "Vector Smart Object" },
+	{ "name": "Rounded Rectangle 14", "bone": "root", "attachment": "Rounded Rectangle 14" }
+],
+"skins": {
+	"default": {
+		"Layer 77": {
+			"Layer 77": { "x": 540, "y": -960, "width": 1082, "height": 1922 }
+		},
+		"Group 1": {
+			"Group 1": { "x": 474, "y": -501, "width": 104, "height": 104 }
+		},
+		"Vector Smart Object": {
+			"Vector Smart Object": { "x": 474.5, "y": -495, "width": 57, "height": 44 }
+		},
+		"Rounded Rectangle 14": {
+			"Rounded Rectangle 14": { "x": 474.5, "y": -535, "width": 97, "height": 34 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

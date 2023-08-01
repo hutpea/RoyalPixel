@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Editor/MobileDependencyResolverLP.Installer.Editor.api.meta
+guid: 481fc0ac949fa3745b74e9e78412d4a6
+========
+guid: 2d4a778b5359fb64ab9c0e77dca48e3b
+>>>>>>>> development:Assets/MyGame/Scripts/EventFarm/TestShader.unity.meta
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

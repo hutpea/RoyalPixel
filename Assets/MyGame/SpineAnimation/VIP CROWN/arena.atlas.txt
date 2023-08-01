@@ -1,0 +1,20 @@
+
+arena.png
+size: 306,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 135 copy 4
+  rotate: false
+  xy: 4, 5
+  size: 171, 148
+  orig: 171, 148
+  offset: 0, 0
+  index: -1
+fgfhbc
+  rotate: true
+  xy: 179, 4
+  size: 149, 123
+  orig: 149, 123
+  offset: 0, 0
+  index: -1

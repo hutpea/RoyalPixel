@@ -1,0 +1,76 @@
+
+tutorial2.png
+size: 1296,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 3
+  rotate: false
+  xy: 1113, 276
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+Ellipse 3 copy
+  rotate: false
+  xy: 1113, 182
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+Ellipse 3 copy 2
+  rotate: false
+  xy: 1204, 183
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+Ellipse 3 copy 3
+  rotate: false
+  xy: 1113, 88
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+Group 34
+  rotate: false
+  xy: 1204, 129
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+Group 35
+  rotate: false
+  xy: 1113, 32
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+Group 47
+  rotate: false
+  xy: 1204, 277
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 736, 19
+  size: 349, 375
+  orig: 349, 375
+  offset: 0, 0
+  index: -1
+chữ
+  rotate: false
+  xy: 2, 2
+  size: 366, 366
+  orig: 366, 366
+  offset: 0, 0
+  index: -1
+dfdfg
+  rotate: false
+  xy: 370, 4
+  size: 364, 364
+  orig: 364, 364
+  offset: 0, 0
+  index: -1

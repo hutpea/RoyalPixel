@@ -1,0 +1,6 @@
+{
+    "AutomatedSetup": true,
+    "PhotoLibraryUsageDescription": "Enable access to start importing your own pictures to color as pixel art, and to save your completed pictures.",
+    "PhotoLibraryAdditionsUsageDescription": "Enable access to start importing your own pictures to color as pixel art, and to save your completed pictures.",
+    "DontAskLimitedPhotosPermissionAutomaticallyOnIos14": true
+}

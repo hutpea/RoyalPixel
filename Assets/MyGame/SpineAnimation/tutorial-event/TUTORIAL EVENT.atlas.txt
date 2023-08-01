@@ -1,0 +1,55 @@
+
+TUTORIAL EVENT.png
+size: 820,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 588, 168
+  size: 193, 192
+  orig: 193, 192
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 364, 121
+  size: 220, 239
+  orig: 220, 239
+  offset: 0, 0
+  index: -1
+Rounded Rectangle 2
+  rotate: false
+  xy: 4, 4
+  size: 356, 356
+  orig: 356, 356
+  offset: 0, 0
+  index: -1
+Rounded Rectangle 9
+  rotate: false
+  xy: 455, 41
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 535, 49
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+dsc
+  rotate: true
+  xy: 364, 19
+  size: 98, 87
+  orig: 98, 87
+  offset: 0, 0
+  index: -1
+đóng
+  rotate: false
+  xy: 597, 20
+  size: 218, 144
+  orig: 218, 144
+  offset: 0, 0
+  index: -1

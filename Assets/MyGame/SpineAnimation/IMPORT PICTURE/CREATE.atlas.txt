@@ -1,0 +1,27 @@
+
+CREATE.png
+size: 1733,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 113
+  rotate: false
+  xy: 4, 4
+  size: 856, 339
+  orig: 856, 339
+  offset: 0, 0
+  index: -1
+Layer 113 copy
+  rotate: false
+  xy: 864, 4
+  size: 856, 339
+  orig: 856, 339
+  offset: 0, 0
+  index: -1
+Layer 114 copy
+  rotate: false
+  xy: 1724, 4
+  size: 5, 339
+  orig: 5, 339
+  offset: 0, 0
+  index: -1

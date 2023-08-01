@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c001dcdf34e20cb4e8e090a42766c2c5, type: 3}
+  m_Name: QuestAchievement
+  m_EditorClassIdentifier: 
+  questAchievement:
+  - quest: ' Return to app for every day'
+    type: 11
+    total: 1
+    giftQuest:
+      item: 3
+      numberItem: 1
+      sprite: {fileID: 21300000, guid: 0f66678ddadea9b44a520d469fe314e4, type: 3}
+    spArmorial: {fileID: 21300000, guid: 7e7960d56a4707e4bb4bb7f6fbf0f3ab, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: 05310b673ef8b264e9a49795c675fe99, type: 3}
+    ribbon: {fileID: 21300000, guid: b34420e48ba3cc544b15a6a0802f2930, type: 3}
+  - quest: Paint 20 any pictures
+    type: 12
+    total: 20
+    giftQuest:
+      item: 0
+      numberItem: 2
+      sprite: {fileID: 21300000, guid: 27cfa87a98e4bba4594c24fedd646974, type: 3}
+    spArmorial: {fileID: 21300000, guid: 3b9bac2fe0b15204d868777b3ae7f93e, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: eef5f57af59f27b48bfb274a2aff324d, type: 3}
+    ribbon: {fileID: 21300000, guid: edc06446076fd3e43b47d62d7ddfc7bc, type: 3}
+  - quest: Painted 40000 pixels
+    type: 13
+    total: 40000
+    giftQuest:
+      item: 1
+      numberItem: 2
+      sprite: {fileID: 21300000, guid: d7c34077c044d4d43979d4fd4a021f4e, type: 3}
+    spArmorial: {fileID: 21300000, guid: 7528876ada89c614f811dfd40676f328, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: c035750517683024ca0a58e419f0235b, type: 3}
+    ribbon: {fileID: 21300000, guid: 47ec3de51f2f14648b4f4679c6caad5e, type: 3}
+  - quest: Use item Boom 30 times
+    type: 14
+    total: 30
+    giftQuest:
+      item: 2
+      numberItem: 2
+      sprite: {fileID: 21300000, guid: d3c7957d2e36caa4980f7b37e4f38e18, type: 3}
+    spArmorial: {fileID: 21300000, guid: b8826319ec7cb06488b9f1e2377dc1a0, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: aac699f4cde33c94ab19946daafc0020, type: 3}
+    ribbon: {fileID: 21300000, guid: edc06446076fd3e43b47d62d7ddfc7bc, type: 3}
+  - quest: Use pixel finder 30 times
+    type: 15
+    total: 30
+    giftQuest:
+      item: 3
+      numberItem: 3
+      sprite: {fileID: 21300000, guid: 0f66678ddadea9b44a520d469fe314e4, type: 3}
+    spArmorial: {fileID: 21300000, guid: f86cfcfe4b7fde94fa7db7469e702af2, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: ca26a8347a1da2542b2d2d6ba54aec54, type: 3}
+    ribbon: {fileID: 21300000, guid: b34420e48ba3cc544b15a6a0802f2930, type: 3}
+  - quest: Import and paint 5 pictures
+    type: 18
+    total: 5
+    giftQuest:
+      item: 1
+      numberItem: 2
+      sprite: {fileID: 21300000, guid: d7c34077c044d4d43979d4fd4a021f4e, type: 3}
+    spArmorial: {fileID: 21300000, guid: d5e601c5f54e2ff4da5a91d109a3b1ce, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: 0865867c93a3deb44a7478f96a5f3686, type: 3}
+    ribbon: {fileID: 21300000, guid: 567b0b45ebb46ed4bb9bcde7455729d1, type: 3}
+  - quest: Use item Pen 30 times
+    type: 17
+    total: 30
+    giftQuest:
+      item: 0
+      numberItem: 2
+      sprite: {fileID: 21300000, guid: 27cfa87a98e4bba4594c24fedd646974, type: 3}
+    spArmorial: {fileID: 21300000, guid: c5b466f2e2e571948b5227cc8a18befe, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: a70eacec39de8d24ab6724863e980631, type: 3}
+    ribbon: {fileID: 21300000, guid: 82e2a3f2fed2f484691ab2ca33544790, type: 3}
+  - quest: 'Paint 5 pictures of the category: Food'
+    type: 19
+    total: 5
+    giftQuest:
+      item: 2
+      numberItem: 1
+      sprite: {fileID: 21300000, guid: d3c7957d2e36caa4980f7b37e4f38e18, type: 3}
+    spArmorial: {fileID: 21300000, guid: c12934fccfbf327439fe47a44e5df395, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: 04912d7724a01dd4199e533254d9246a, type: 3}
+    ribbon: {fileID: 21300000, guid: 8c4f4d8a7b8cb7a498803654bf297ef1, type: 3}
+  - quest: Use item Star 30 times
+    type: 16
+    total: 30
+    giftQuest:
+      item: 1
+      numberItem: 2
+      sprite: {fileID: 21300000, guid: d7c34077c044d4d43979d4fd4a021f4e, type: 3}
+    spArmorial: {fileID: 21300000, guid: 0481a0d64d088dc41b9f310b0b64070a, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: 4d60292a8c84cc242aa240babc4b084a, type: 3}
+    ribbon: {fileID: 21300000, guid: 8c4f4d8a7b8cb7a498803654bf297ef1, type: 3}
+  - quest: 'Paint 5 pictures of the category: Fantasy'
+    type: 20
+    total: 5
+    giftQuest:
+      item: 3
+      numberItem: 3
+      sprite: {fileID: 21300000, guid: 0f66678ddadea9b44a520d469fe314e4, type: 3}
+    spArmorial: {fileID: 21300000, guid: 5785b2f5a44ffaa45ab88a2125082936, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: 138d3dca36a1bd44f95ea904dbd8e366, type: 3}
+    ribbon: {fileID: 21300000, guid: 8c4f4d8a7b8cb7a498803654bf297ef1, type: 3}
+  - quest: 'Paint 5 pictures of the category: Popular'
+    type: 21
+    total: 5
+    giftQuest:
+      item: 2
+      numberItem: 2
+      sprite: {fileID: 21300000, guid: d3c7957d2e36caa4980f7b37e4f38e18, type: 3}
+    spArmorial: {fileID: 21300000, guid: a44a3dc7634a2444bb6b1c4f93337440, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: 8b2cff7fc191882438f4a73237f6a42a, type: 3}
+    ribbon: {fileID: 21300000, guid: edc06446076fd3e43b47d62d7ddfc7bc, type: 3}
+  - quest: 'Paint 5 pictures of the category: Animal'
+    type: 22
+    total: 5
+    giftQuest:
+      item: 0
+      numberItem: 2
+      sprite: {fileID: 21300000, guid: 27cfa87a98e4bba4594c24fedd646974, type: 3}
+    spArmorial: {fileID: 21300000, guid: 68c6f62507486b84a98463fe67e288e4, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: 725b939a0215f8e47ab88e87f3c016fa, type: 3}
+    ribbon: {fileID: 21300000, guid: 567b0b45ebb46ed4bb9bcde7455729d1, type: 3}
+  - quest: 'Paint 5 pictures of the category: Cute'
+    type: 23
+    total: 5
+    giftQuest:
+      item: 1
+      numberItem: 2
+      sprite: {fileID: 21300000, guid: d7c34077c044d4d43979d4fd4a021f4e, type: 3}
+    spArmorial: {fileID: 21300000, guid: b68a279ab2889af41b3daa589887e803, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: ca26a8347a1da2542b2d2d6ba54aec54, type: 3}
+    ribbon: {fileID: 21300000, guid: b34420e48ba3cc544b15a6a0802f2930, type: 3}
+  - quest: 'Paint 5 pictures of the category: Festival'
+    type: 24
+    total: 5
+    giftQuest:
+      item: 2
+      numberItem: 2
+      sprite: {fileID: 21300000, guid: d3c7957d2e36caa4980f7b37e4f38e18, type: 3}
+    spArmorial: {fileID: 21300000, guid: 4f1a1d468ad682c438e0d51e9a41c916, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: 05310b673ef8b264e9a49795c675fe99, type: 3}
+    ribbon: {fileID: 21300000, guid: b34420e48ba3cc544b15a6a0802f2930, type: 3}
+  - quest: 'Paint 5 pictures of the category: Fashion'
+    type: 25
+    total: 5
+    giftQuest:
+      item: 3
+      numberItem: 2
+      sprite: {fileID: 21300000, guid: 0f66678ddadea9b44a520d469fe314e4, type: 3}
+    spArmorial: {fileID: 21300000, guid: 2bb815289e1308541a54d1e5ad8fd29f, type: 3}
+    spBorderArmorial: {fileID: 21300000, guid: 138d3dca36a1bd44f95ea904dbd8e366, type: 3}
+    ribbon: {fileID: 21300000, guid: 2117a266ef65ae343be0541e00eeac49, type: 3}

@@ -1,0 +1,28 @@
+{ "skeleton": { "images": "/g/.shortcut-targets-by-id/1QXx3CZRUxcxCn9KBkazLMIS2ksp0DBMG/[PUZZLE] ROYAL PIXELS/UI/PROFILE/Achiviment/pen/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 77", "bone": "root", "attachment": "Layer 77" },
+	{ "name": "Group 6", "bone": "root", "attachment": "Group 6" },
+	{ "name": "Layer 156", "bone": "root", "attachment": "Layer 156" },
+	{ "name": "Rounded Rectangle 14 copy", "bone": "root", "attachment": "Rounded Rectangle 14 copy" }
+],
+"skins": {
+	"default": {
+		"Layer 77": {
+			"Layer 77": { "x": 540, "y": -960, "width": 1082, "height": 1922 }
+		},
+		"Group 6": {
+			"Group 6": { "x": 185, "y": -501, "width": 104, "height": 104 }
+		},
+		"Layer 156": {
+			"Layer 156": { "x": 187, "y": -489.5, "width": 52, "height": 67 }
+		},
+		"Rounded Rectangle 14 copy": {
+			"Rounded Rectangle 14 copy": { "x": 185.5, "y": -535, "width": 97, "height": 34 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
